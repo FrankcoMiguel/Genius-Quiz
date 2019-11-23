@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Genius Quiz</string>
+    <string name="genius_quiz">Genius Quiz</string>
+    <string name="history">Cultura General</string>
+    <string name="math">Matematicas</string>
+    <string name="science">Ciencia</string>
+    <string name="choose_a_subject">Haz Click para comenzar</string>
+    <string name="share">share</string>
+    <string name="culture">Cultura General</string>
+    <string name="textview">TextView</string>
+    <string name="button">Button</string>
+
+
+    <!-- Questions-->
+
+    <string name="first_question">El contiente que se muestra es America del Sur</string>
+    <string name="second_question">Este monumento es la Torre Eiffel ubicada en Quebec</string>
+    <string name="third_question">La estatua de la libertad no se encuentra en Washington D.C</string>
+    <string name="fourth_question">Karl Benz es el inventor del automóvil</string>
+    <string name="fifth_question">La vestimenta que se muestra es utilizada en la India</string>
+    <string name="sixth_question">El euro no es la moneda con más valor</string>
+    <string name="seventh_question">Este monumento esta ubicado en Russia</string>
+    <string name="eight_question">La bandera que se muestra pertenece a Inglaterra</string>
+    <string name="nineth_question">Los egipcios no utilizaban papiros para escribir</string>
+    <string name="tenth_question">La bandera que se muestra es perteneciente a Chile</string>
+
+
+    <string name="correct_toast">Correcta</string>
+    <string name="incorrect_toast">Incorrecta</string>
+    <string name="true_text">Verdadero</string>
+    <string name="false_text">Falso</string>
+
+
+    <!-- lives -->
+
+
+    <string name="final_score">Puntación Final</string>
+    <string name="score">/10</string>
+    <string name="volver_al_menu">Volver al menu</string>
+    <string name="powered_by"><![CDATA[Powered by F&O Technology]]></string>
+
+
+</resources>
